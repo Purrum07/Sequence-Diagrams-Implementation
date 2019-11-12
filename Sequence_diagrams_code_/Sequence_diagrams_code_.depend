@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573597034 source:c:\users\mario\desktop\cpp\sequence_diagrams_code_\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<array>
+	<algorithm>
+
